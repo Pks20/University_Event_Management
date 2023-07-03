@@ -10,4 +10,4 @@
  
 
 * Project Summary
-   In this project we created job search portal andused h2 database to store the data. We used CRUD operation in this project.like add companyr, get company etc.
+   In this project we created University Event Management and used h2 database to store the data. We used CRUD operation in this project.like add student, delete student, get student and same operation with event etc.
