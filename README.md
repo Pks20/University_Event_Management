@@ -9,5 +9,5 @@
   5. Model
  
 
-* Project Summary
+* # Project Summary
    In this project we created University Event Management and used h2 database to store the data. We used CRUD operation in this project.like add student, delete student, get student and same operation with event etc.
